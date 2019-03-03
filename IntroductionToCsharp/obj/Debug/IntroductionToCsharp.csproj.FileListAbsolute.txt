@@ -1,0 +1,6 @@
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe.config
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csprojResolveAssemblyReference.cache
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.exe
+D:\Practice\MVC Practice Programs\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.pdb
